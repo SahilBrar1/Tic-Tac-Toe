@@ -68,6 +68,8 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
+
     private void newGame() {
         btn1.setText("");
         btn2.setText("");
